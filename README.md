@@ -1,2 +1,3 @@
-# phoenix
-An exploitation framework written for curious reasons
+# Phoenix
+
+An exploitation framework written for curious reasons.
